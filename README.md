@@ -1,4 +1,7 @@
 # hg_1_charlie
-Joseph R. - caracas 
-# Integrantes:
-Jose Serrano - Charallave
+| INTEGRANTES | UBICACION |
+| ----------- | --------- |
+| Luis Barranco | Naguanagua |
+| Fabiola Montilla | Caracas |
+| Jose Serrano | Charallave |
+| Josephb R | Caracas |
